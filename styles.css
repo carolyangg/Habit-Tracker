@@ -9,7 +9,7 @@
 
     <style>
     .main {
-        font-family: 'papyrus', cursive, sans-serif;
+        font-family: 'copperplate', cursive, sans-serif;
     }
     </style>
     """
@@ -21,6 +21,7 @@
     color: #a094ef;
   
 }
+body { background-color: #bddcf5;
 footer{
     padding-top: 20px;
 }
