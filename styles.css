@@ -6,12 +6,20 @@
 .day-label {
     font-weight: 500;
     font-size: 0.85rem;
+
+    <style>
+    .main {
+        font-family: 'papyrus', cursive, sans-serif;
+    }
+    </style>
+    """
 }
 
 .habit-icon {
     font-size: 1.2rem;
     margin-right: 8px;
-    color: #0d6efd;
+    color: #a094ef;
+  
 }
 footer{
     padding-top: 20px;
@@ -20,12 +28,12 @@ footer{
 /* Slide-In on Hover */
 .animated-card {
     transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
-    background-color: #ffffff;
+    background-color: #9fbcec;
   }
   
   .animated-card:hover {
     transform: scale(1.05);
-    background-color: #e3f2fd; /* light blue */
+    background-color: #7bbdec; /* light blue */
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
   }
   
